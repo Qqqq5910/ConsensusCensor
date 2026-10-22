@@ -1,0 +1,27 @@
+{
+  "checked_on": "2026-10-22",
+  "github": [
+    {
+      "repository": "aangelopoulos/ppi_py",
+      "path": "README.md",
+      "blob_sha": "66941940269d071970502e244f8359c162087137",
+      "scope": "README"
+    },
+    {
+      "repository": "aangelopoulos/ppi_py",
+      "path": "ppi_py/ppi.py",
+      "blob_sha": "9d61900f7e1d0868f12c786e57be154b2b5d51c7",
+      "scope": "lines 1-160"
+    }
+  ],
+  "papers": [
+    "https://arxiv.org/abs/2301.09633",
+    "https://arxiv.org/abs/2309.16598",
+    "https://www.stat.cmu.edu/~brian/905-2008/papers/Horvitz-Thompson-1952-jasa.pdf"
+  ],
+  "access_limitations": [
+    "HT publisher page returned 403; university original-paper archive accessible",
+    "Statistics Canada model-assisted page unavailable; no theorem based on inaccessible text"
+  ],
+  "no_new_topic_search": true
+}

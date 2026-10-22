@@ -1,0 +1,53 @@
+{
+  "seeds": [
+    11,
+    23,
+    37,
+    41,
+    59
+  ],
+  "audit_rates": [
+    0.0,
+    0.05,
+    0.1,
+    0.2
+  ],
+  "synthetic_n": 1500,
+  "S1_probabilities": [
+    [
+      0.6,
+      0.25,
+      0.15
+    ],
+    [
+      0.4,
+      0.15,
+      0.45
+    ]
+  ],
+  "S2_delta": [
+    [
+      0.3,
+      -0.15,
+      -0.15
+    ],
+    [
+      0.3,
+      -0.1,
+      -0.2
+    ]
+  ],
+  "S2_mixture_weights": [
+    0.5,
+    0.5
+  ],
+  "split_seed": 20261022,
+  "model": "group-only independent categorical, no tuned hyperparameters",
+  "optimization": "3 fixed starts, L-BFGS-B logits [-20,20], maxiter=500",
+  "evaluation": "fit permitted observations within each target partition; test is transductive finite-target estimation, not held-out label prediction",
+  "uncertainty": "five paired randomizations: mean and SD; no significance claims",
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "pandas": "2.2.3",
+  "scipy": "1.17.0"
+}

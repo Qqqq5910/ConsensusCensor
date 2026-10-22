@@ -1,0 +1,15 @@
+{
+  "method_runs": 28800,
+  "paired_audit_budget_identity": true,
+  "fixed_audits_per_scenario": 50,
+  "independent_populations_per_scenario": 20,
+  "real_audits_per_partition": 30,
+  "audit_manifest_checks": 1200,
+  "zero_audit_boundaries_correct": true,
+  "negative_raw_runs": 0,
+  "numeric_failures_by_method": {
+    "B3": 3,
+    "B5b": 12
+  },
+  "original_archive_sha256": "f621da2cf9ef2850c61df46c72936d89d24270f3d2dd409cc7358ee8bcdf6f09"
+}

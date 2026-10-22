@@ -1,0 +1,128 @@
+[
+  {
+    "method": "B4",
+    "mechanism": "NONE",
+    "N": 5,
+    "audit_n": 1,
+    "subsets_enumerated": 5,
+    "max_design_expectation_error": 0.0,
+    "conditioning": "fixed finite population and fixed observed view"
+  },
+  {
+    "method": "B4",
+    "mechanism": "NONE",
+    "N": 5,
+    "audit_n": 2,
+    "subsets_enumerated": 10,
+    "max_design_expectation_error": 5.551115123125783e-17,
+    "conditioning": "fixed finite population and fixed observed view"
+  },
+  {
+    "method": "B4",
+    "mechanism": "NONE",
+    "N": 5,
+    "audit_n": 5,
+    "subsets_enumerated": 1,
+    "max_design_expectation_error": 0.0,
+    "conditioning": "fixed finite population and fixed observed view"
+  },
+  {
+    "method": "B4",
+    "mechanism": "M0",
+    "N": 5,
+    "audit_n": 1,
+    "subsets_enumerated": 5,
+    "max_design_expectation_error": 5.551115123125783e-17,
+    "conditioning": "fixed finite population and fixed observed view"
+  },
+  {
+    "method": "B4",
+    "mechanism": "M0",
+    "N": 5,
+    "audit_n": 2,
+    "subsets_enumerated": 10,
+    "max_design_expectation_error": 1.1102230246251565e-16,
+    "conditioning": "fixed finite population and fixed observed view"
+  },
+  {
+    "method": "B4",
+    "mechanism": "M0",
+    "N": 5,
+    "audit_n": 5,
+    "subsets_enumerated": 1,
+    "max_design_expectation_error": 5.551115123125783e-17,
+    "conditioning": "fixed finite population and fixed observed view"
+  },
+  {
+    "method": "B4",
+    "mechanism": "M1",
+    "N": 5,
+    "audit_n": 1,
+    "subsets_enumerated": 5,
+    "max_design_expectation_error": 5.551115123125783e-17,
+    "conditioning": "fixed finite population and fixed observed view"
+  },
+  {
+    "method": "B4",
+    "mechanism": "M1",
+    "N": 5,
+    "audit_n": 2,
+    "subsets_enumerated": 10,
+    "max_design_expectation_error": 1.1102230246251565e-16,
+    "conditioning": "fixed finite population and fixed observed view"
+  },
+  {
+    "method": "B4",
+    "mechanism": "M1",
+    "N": 5,
+    "audit_n": 5,
+    "subsets_enumerated": 1,
+    "max_design_expectation_error": 5.551115123125783e-17,
+    "conditioning": "fixed finite population and fixed observed view"
+  },
+  {
+    "method": "B4",
+    "mechanism": "M2",
+    "N": 5,
+    "audit_n": 1,
+    "subsets_enumerated": 5,
+    "max_design_expectation_error": 5.551115123125783e-17,
+    "conditioning": "fixed finite population and fixed observed view"
+  },
+  {
+    "method": "B4",
+    "mechanism": "M2",
+    "N": 5,
+    "audit_n": 2,
+    "subsets_enumerated": 10,
+    "max_design_expectation_error": 1.1102230246251565e-16,
+    "conditioning": "fixed finite population and fixed observed view"
+  },
+  {
+    "method": "B4",
+    "mechanism": "M2",
+    "N": 5,
+    "audit_n": 5,
+    "subsets_enumerated": 1,
+    "max_design_expectation_error": 5.551115123125783e-17,
+    "conditioning": "fixed finite population and fixed observed view"
+  },
+  {
+    "method": "B4",
+    "mechanism": "M1",
+    "N": 5,
+    "audit_n": 1,
+    "subsets_enumerated": 5,
+    "max_design_expectation_error": 5.551115123125783e-17,
+    "conditioning": "known unequal size-one probabilities"
+  },
+  {
+    "method": "B5a",
+    "mechanism": "M1",
+    "N": 4,
+    "audit_n": 2,
+    "subsets_enumerated": 4,
+    "max_design_expectation_error": 5.551115123125783e-17,
+    "conditioning": "fixed fold audit counts (1,1); outside-fold training only"
+  }
+]

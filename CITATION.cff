@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite this research artifact and separately acknowledge the MultiPref dataset."
+title: "ConsensusCensor: An Open Research Artifact on Consensus Filtering and Robust Statistical Estimation from Human Preference Data"
+type: software
+authors:
+  - name: "ConsensusCensor contributors"
+version: 0.1.0
+license: MIT
+abstract: >-
+  A completed CPU-only research artifact comparing existing selection-aware
+  likelihood, audit, design-based residual, post-stratified, and model-assisted
+  estimators under controlled human-preference annotation censoring.
+  No new statistical theory or original algorithmic contribution is established.
+keywords:
+  - human preference data
+  - consensus filtering
+  - survey sampling
+  - model-assisted estimation

@@ -1,0 +1,21 @@
+{
+  "existing_files_checked": 170,
+  "changed_existing_files": [
+    "pyproject.toml",
+    "README.md",
+    ".gitignore",
+    "README_CN.md",
+    "src/consensuscensor/data/multipref.py",
+    "src/consensuscensor/data/views.py"
+  ],
+  "missing_existing_files": [],
+  "frozen_research_files_checked": 132,
+  "all_frozen_research_files_unchanged": true,
+  "original_python_ASTs_unchanged": true,
+  "CFF_structural_checks_passed": true,
+  "CI_YAML_structural_checks_passed": true,
+  "github_CI_executed": false,
+  "python": "3.12.14",
+  "engineering_artifact": "READY",
+  "original_research_contribution": "NOT ESTABLISHED"
+}

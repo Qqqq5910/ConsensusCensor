@@ -1,0 +1,2 @@
+# Preserve the literal trailing space in a historical solver diagnostic.
+experiments/phase1/results.csv whitespace=-blank-at-eol

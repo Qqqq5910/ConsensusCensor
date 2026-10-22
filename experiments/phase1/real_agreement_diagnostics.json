@@ -1,0 +1,44 @@
+[
+  {
+    "slot_a": 0,
+    "slot_b": 1,
+    "observed_agreement": 0.5065,
+    "independent_marginal_agreement": 0.36555699999999997,
+    "excess_agreement": 0.14094299999999998
+  },
+  {
+    "slot_a": 0,
+    "slot_b": 2,
+    "observed_agreement": 0.495,
+    "independent_marginal_agreement": 0.36383825,
+    "excess_agreement": 0.13116175000000002
+  },
+  {
+    "slot_a": 0,
+    "slot_b": 3,
+    "observed_agreement": 0.516,
+    "independent_marginal_agreement": 0.36169049999999997,
+    "excess_agreement": 0.15430950000000004
+  },
+  {
+    "slot_a": 1,
+    "slot_b": 2,
+    "observed_agreement": 0.4885,
+    "independent_marginal_agreement": 0.36634675,
+    "excess_agreement": 0.12215324999999999
+  },
+  {
+    "slot_a": 1,
+    "slot_b": 3,
+    "observed_agreement": 0.4945,
+    "independent_marginal_agreement": 0.363737,
+    "excess_agreement": 0.13076300000000002
+  },
+  {
+    "slot_a": 2,
+    "slot_b": 3,
+    "observed_agreement": 0.4995,
+    "independent_marginal_agreement": 0.36177825,
+    "excess_agreement": 0.13772174999999998
+  }
+]

@@ -1,0 +1,12 @@
+Processing ./.
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Building wheels for collected packages: consensuscensor
+  Building wheel for consensuscensor (pyproject.toml): started
+  Building wheel for consensuscensor (pyproject.toml): finished with status 'done'
+  Created wheel for consensuscensor: filename=consensuscensor-0.1.0-py3-none-any.whl size=18947 sha256=1e5e3c074af97be943de5a7a2f257e560f256a6aef11306341678cb711633672
+  Stored in directory: /tmp/pip-ephem-wheel-cache-imbhim60/wheels/2c/00/f9/79feeb6a8c312906d6118a396099daf246ba45e2c8cde5effd
+Successfully built consensuscensor
+
+[notice] A new release of pip is available: 26.2.1 -> 26.2.2
+[notice] To update, run: pip install --upgrade pip

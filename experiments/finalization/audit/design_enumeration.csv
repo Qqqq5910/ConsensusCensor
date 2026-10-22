@@ -1,0 +1,15 @@
+method,mechanism,N,audit_n,subsets_enumerated,max_design_expectation_error,conditioning
+B4,NONE,5,1,5,0.0,fixed finite population and fixed observed view
+B4,NONE,5,2,10,5.551115123125783e-17,fixed finite population and fixed observed view
+B4,NONE,5,5,1,0.0,fixed finite population and fixed observed view
+B4,M0,5,1,5,5.551115123125783e-17,fixed finite population and fixed observed view
+B4,M0,5,2,10,1.1102230246251565e-16,fixed finite population and fixed observed view
+B4,M0,5,5,1,5.551115123125783e-17,fixed finite population and fixed observed view
+B4,M1,5,1,5,5.551115123125783e-17,fixed finite population and fixed observed view
+B4,M1,5,2,10,1.1102230246251565e-16,fixed finite population and fixed observed view
+B4,M1,5,5,1,5.551115123125783e-17,fixed finite population and fixed observed view
+B4,M2,5,1,5,5.551115123125783e-17,fixed finite population and fixed observed view
+B4,M2,5,2,10,1.1102230246251565e-16,fixed finite population and fixed observed view
+B4,M2,5,5,1,5.551115123125783e-17,fixed finite population and fixed observed view
+B4,M1,5,1,5,5.551115123125783e-17,known unequal size-one probabilities
+B5a,M1,4,2,4,5.551115123125783e-17,"fixed fold audit counts (1,1); outside-fold training only"

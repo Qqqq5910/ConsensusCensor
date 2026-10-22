@@ -1,0 +1,3 @@
+.........................................................                [100%]
+57 passed in 1.30s
+Completed 162 small method runs. Outputs: /workspace/scratch/b131b1e3e3dc/ConsensusCensor/experiments/minimal
