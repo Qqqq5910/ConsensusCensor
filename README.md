@@ -47,8 +47,8 @@ The real pilot used the first 2,000 comparisons from [MultiPref](https://hugging
 
 Software and project-authored documentation: [MIT](LICENSE). MultiPref: ODC-BY; see [DATA_LICENSE.md](DATA_LICENSE.md). Dataset-derived outputs retain their attribution and applicable data-license obligations. Original real annotations, full text, secrets and caches are excluded from Git and the distribution. An exact historical real-data rerun requires matching input SHA256; the download is not upstream-revision-pinned. Offline synthetic reproduction is self-contained.
 
-[CITATION.cff](CITATION.cff) provides software citation metadata using a collective contributor name; no DOI or remote repository is invented.
+[CITATION.cff](CITATION.cff) provides software citation metadata using a collective contributor name; no DOI is claimed.
 
 ## Validation and publication state
 
-The repository includes a read-only GitHub Actions workflow for Python 3.11/3.12, local tests/static checks, offline reproduction, archived-result auditing and wheel inspection. GitHub-hosted CI has not run because this closeout does not create a remote, push, publish a release or deploy anything. Local evidence and the change log are in `experiments/finalization/` and [docs/final_change_log.md](docs/final_change_log.md).
+The repository includes a read-only GitHub Actions workflow for Python 3.11/3.12, local tests/static checks, offline reproduction, archived-result auditing and wheel inspection. Following explicit publication authorization, the complete artifact was uploaded to the existing Qqqq5910/FunnelBounds repository on 2026-10-22. GitHub-hosted CI passed on Python 3.11 and 3.12 for publication commit `8359b26`. Repository renaming is a separate administration step. No release or deployment was created. Local evidence and the change log are in `experiments/finalization/` and [docs/final_change_log.md](docs/final_change_log.md).
